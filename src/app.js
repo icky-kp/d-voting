@@ -128,7 +128,7 @@ var contractABI=[
 ];
 
 // Contract address
-var contractAddress = '0xF7c86B383142E66a5D55352f367b81Ac02F3e283';
+var contractAddress = '0xA27678210BE615DCa26E540566E1df4E4bD9DC22';
 
 // Contract instance
 var contractInstance = new web3.eth.Contract(contractABI, contractAddress);
