@@ -1,9 +1,20 @@
 {
-  "dependencies": {
-    "web3": "^1.9.0"
-  },
+  "name": "voting-app",
+  "version": "1.0.0",
+  "description": "Simple web app for voting on a smart contract using MetaMask",
+  "main": "index.js",
   "scripts": {
-    "dev": "lite-server",
-    "test": "echo \"Error: no test specified\" && sexit 1"
-  } 
+    "start": "lite-server",
+    "dev": "lite-server --config bs-config.js"
+  },
+  "dependencies": {
+    "bootstrap": "^5.1.0",
+    "web3": "^1.6.0"
+  },
+  "devDependencies": {
+    "lite-server": "^2.6.1",
+    "truffle": "5.0.2",
+    "truffle-contract": "3.0.6"
+  },
+  "license": "MIT"
 }

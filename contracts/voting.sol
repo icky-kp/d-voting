@@ -1,6 +1,6 @@
 pragma solidity >=0.5.0;
 
-contract voting {
+contract Voting {
     mapping (bytes32 => uint256) public votes;
     bytes32[] public  candidates;
     uint256 public totalVotesCast;
