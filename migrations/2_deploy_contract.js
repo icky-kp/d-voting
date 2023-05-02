@@ -1,4 +1,4 @@
-const Voting = artifacts.require("voting");//importing the contract
+const Voting = artifacts.require("Voting");//importing the contract
 
 module.exports = function(deployer, _network, accounts) {//deploying the contract
   const candidates = [
