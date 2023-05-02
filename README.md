@@ -1,4 +1,4 @@
-# Decentralized voting mechanism
+# d-voting - A Decentralized voting mechanism
 
 Drafted By Kaustav Kamakhi Patro 
 
