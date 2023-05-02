@@ -473,5 +473,3 @@ The development of the d-voting dapp was a challenging yet rewarding experience,
 2. The project exposed me to the condition of working within a time constraint, which helped me develop time management skills.These skills can be help me crack hackathons in the future.
 3. It also helped me to expand my knowledge on blockchain technology and how to apply blockchain technology in real life situations.
 4. The project gave me a feel of what research work looks like in technical domain.
-
-/
