@@ -459,7 +459,7 @@ Use cases of the current version of d-voting dapp :
 
 ## IV. Learning and Challenges Faced
 
-The development of the d-voting dapp was a challenging yet rewarding experience, as it required completion within a tight 48-hour timeframe for assessment by the research domain of ACM student chapter at VIT Vellore. Despite the pressure, this opportunity allowed me to refine existing skills and acquire new knowledge across a range of technologies in a short amount of time. 
+The development of the d-voting dapp was a challenging yet rewarding experience, as it required completion within a tight 48-hour timeframe for assessment by the research team of ACM student chapter at VIT Vellore. Despite the pressure, this opportunity allowed me to refine existing skills and acquire new knowledge across a range of technologies in a short amount of time. 
 
 **Challenges I faced:**
 
