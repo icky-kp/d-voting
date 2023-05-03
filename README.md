@@ -428,9 +428,9 @@ It also creates an instance of the smart contract by passing the ABI(Application
     <form id="vote-form">
       <label for="candidate">Choose a candidate:</label>
       <select id="candidate" name="candidate">
-        <option value="Alice">Alice</option>
-        <option value="Bob">Bob</option>
-        <option value="Charlie">Charlie</option>
+        <option value="Candidate1">Candidate1</option>
+        <option value="Candidate2">Candidate2</option>
+        <option value="Candidate3">Candidate3</option>
       </select>
       <button type="submit">Vote</button>
     </form>
