@@ -6,5 +6,5 @@ module.exports = function(deployer) {//deploying the contract
     web3.utils.utf8ToHex("Candidate 2"),
     web3.utils.utf8ToHex("Candidate 3")
   ];
-  deployer.deploy(Voting, candidates, { from: accounts[0] });
+  deployer.deploy(Voting, candidates);
 };
